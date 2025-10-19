@@ -46,6 +46,7 @@
   height: 180px;
   margin: 180px 0;
 }
+
 /* Шапка */
 /*Шапка - меню*/
 .header_menu {
@@ -73,11 +74,13 @@
 .header__link_active {
   text-decoration: none;
 }
+
 /*Шапка - логотип*/
 .header__logo {
   width: 148px;
   height: 105px;
 }
+
 /*Шапка - адрес*/
 .adress {
   font-family: Raleway;
@@ -294,6 +297,7 @@
 
   text-decoration: underline;
 }
+
 /* О нас */
 .about__logo {
   width: 240px;
@@ -347,6 +351,7 @@
   margin-top: 133px;
   height: 449px;
 }
+
 /* Подвал */
 .footer__adress {
   position: absolute;
